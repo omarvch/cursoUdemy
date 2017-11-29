@@ -1,10 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 body{
 	position: relative;
+	font-family: 'Lato', sans-serif;
 }
 
 header{
 	width: 100%;
-	height: 150px;
+	height: 160px;
 	margin: 0px;
 	padding: 10px 0px;
 	background: #bdc3c7;
