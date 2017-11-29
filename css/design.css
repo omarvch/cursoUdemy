@@ -10,7 +10,7 @@ header{
 	height: 160px;
 	margin: 0px;
 	padding: 10px 0px;
-	background: blue;
+	background: green;
 	color: black;
 	text-align: center;
 	border-bottom: 1px solid #95a5a6;
@@ -64,7 +64,7 @@ footer{
 	margin: 0px;
 	bottom: 0px;
 	padding: 10px 0px;
-	background: blue;
+	background: green;
 }
 
 footer p{
